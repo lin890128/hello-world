@@ -1,0 +1,48 @@
+
+   #intro{     
+        padding: 0;
+        margin: 0;
+        background-color: darkgray ;
+        height: 870px;
+        }
+   #like{
+      padding: 0;
+      margin: 0; 
+      width: 100%;
+      height: 870px;
+      background-color: lightgray;
+        }     
+    #leftside{
+      float:left;
+  
+      width: 50%;
+      position: relative;
+      left: 120px;
+      top: 300px;
+      
+    }  
+    #main{
+      position: relative;
+      top: 80px;
+      float: right;
+      width: 50%;
+      }
+    #work{
+      font-size: 27px;
+      float: right ;
+      position: relative;
+      right: 50px;
+      text-align: center;
+      top: 5px;
+      padding:30px 5px;
+      border:hotpink;
+      border-style:solid;
+      border-radius:10px;
+      background-color: ivory;
+      }
+    #future{
+      width: 100%;
+      float: left;
+      height: 870px;
+      background-image: url('pic5.JPG');
+    }
